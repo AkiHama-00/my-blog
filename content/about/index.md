@@ -8,16 +8,23 @@ draft: false
 
 - ガソリンスタンド店員
 - スタートアップ企業にてWebシステム開発  
-- 中小企業でDXコンサル + 技術支援及びWebシステム開発 + フリーランスエンジニア🔰
+- 中小企業でDXコンサル & 技術支援 + フリーランスエンジニア🔰 ← Now
 
 
 ## 📘 使用言語
 
 - Python（Django）
-- JavaScript（React / Next.js）
+- TypeScript & JavaScript（React / Next.js）
 - HTML / CSS
 
 ## 🧰 ツール類
 
 - Docker  
 - Git / GitHub  
+- GitHub Actions
+
+## 😊 趣味
+- 筋トレ🏋️
+- 読書📚
+- 散歩🚶
+- 旅行🧳

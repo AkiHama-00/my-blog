@@ -18,6 +18,11 @@ publishDir = "docs"
   url = "/about/"
   weight = 2
 
+[[menu.main]]
+  identifier = "search"
+  name = "🔍検索"
+  url = "/search/"
+  weight = 3
 
 [params]
   ShowBreadCrumbs = true # パンくずリスト（上部の階層表示）を表示
@@ -26,7 +31,7 @@ publishDir = "docs"
   ShowReadingTime = true # 読了目安時間（3分で読めます）などを表示
   ShowToc = true # 記事の目次（Table of Contents）を表示・展開
   TocOpen = true # 上同様
-  showShareButtons = false # ソーシャル共有ボタン
+  showShareButtons = true # ソーシャル共有ボタン
   UseHugoToc = true # Hugo標準の目次機能を使うかどうか
   ShowPostCover = true # 記事ごとにカバー画像（アイキャッチ）を表示
   ShowPageTitleInHome = true # サイト全体のデザインモード（auto, light, dark）
@@ -39,11 +44,8 @@ publishDir = "docs"
   favicon = "favicon.ico"
   customCSS = ["css/custom.css"]  # ← カスタムデザインしたいときに使います
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
+[outputs]
+  home = ["HTML", "JSON"]
 
 [params.profileMode]
 enabled = true
