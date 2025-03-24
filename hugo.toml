@@ -21,43 +21,43 @@ publishDir = "docs"
 
 [params.assets]
   favicon = "favicon.ico"
-  customCSS = ["css/custom.css"]  # ← カスタムデザインしたいときに使います
+#   customCSS = ["css/custom.css"]  # ← カスタムデザインしたいときに使います
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
-
-[params.homeInfoParams]
-  Title = "👋 はじめまして、○○です！"
-  Content = """
-<p align="center">
-  <img src="/images/0_home/cat-sunglasses.jpg" alt="プロフィール画像" class="profile-img" width="100" height="100">
-</p>
+# [markup]
+#   [markup.goldmark]
+#     [markup.goldmark.renderer]
+#       unsafe = true
 
 
----
+# [params.homeInfoParams]
+#   Title = "👋 はじめまして、○○です！"
+#   Content = """
+# <p align="center">
+#   <img src="/images/0_home/cat-sunglasses.jpg" alt="プロフィール画像" class="profile-img" width="100" height="100">
+# </p>
 
-### 👤 経歴  
-- 💼 スタートアップ企業で **2年間** Webシステム開発  
-- 🧠 DXコンサル 🔰 / システム開発 / フリーランスエンジニアとして活動中 ❗️🆕
 
----
+# ---
 
-### 💻 経験言語・スキル
+# ### 👤 経歴  
+# - 💼 スタートアップ企業で **2年間** Webシステム開発  
+# - 🧠 DXコンサル 🔰 / システム開発 / フリーランスエンジニアとして活動中 ❗️🆕
 
-#### 📘 使用言語
-- Python（Django）
-- JavaScript（React / Next.js）
-- HTML / CSS
+# ---
 
-#### 🧰 ツール類
-- Docker  
-- Git / GitHub  
+# ### 💻 経験言語・スキル
 
----
+# #### 📘 使用言語
+# - Python（Django）
+# - JavaScript（React / Next.js）
+# - HTML / CSS
 
-このブログでは、技術ノウハウ・エンジニアの働き方・ライフハックなどを、気ままに発信していきます。  
-ゆるく、でも役立つコンテンツを目指して書いていきますので、どうぞよろしくお願いします🙌
-"""
+# #### 🧰 ツール類
+# - Docker  
+# - Git / GitHub  
+
+# ---
+
+# このブログでは、技術ノウハウ・エンジニアの働き方・ライフハックなどを、気ままに発信していきます。  
+# ゆるく、でも役立つコンテンツを目指して書いていきますので、どうぞよろしくお願いします🙌
+# """
