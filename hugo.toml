@@ -1,10 +1,23 @@
 baseURL = 'https://akihama-00.github.io/my-blog/'
 languageCode = 'ja-jp'
-title = 'AkiHama Blog'
+title = '🏠HOME🏠'
 theme = 'PaperMod'
 defaultContentLanguage = "ja"
 timeZone = "Asia/Tokyo"
 publishDir = "docs"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "✒️投稿"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "about"
+  name = "💼経歴"
+  url = "/about/"
+  weight = 2
+
 
 [params]
   ShowBreadCrumbs = true # パンくずリスト（上部の階層表示）を表示
@@ -13,51 +26,31 @@ publishDir = "docs"
   ShowReadingTime = true # 読了目安時間（3分で読めます）などを表示
   ShowToc = true # 記事の目次（Table of Contents）を表示・展開
   TocOpen = true # 上同様
+  showShareButtons = false # ソーシャル共有ボタン
   UseHugoToc = true # Hugo標準の目次機能を使うかどうか
-  ShowShareButtons = true # 記事下にTwitterやFacebookなどの共有ボタンを表示
   ShowPostCover = true # 記事ごとにカバー画像（アイキャッチ）を表示
   ShowPageTitleInHome = true # サイト全体のデザインモード（auto, light, dark）
-  defaultTheme = "auto" # 独自デザインを適用したいときのCSSファイルパス
+  socialIcons = [
+    { name = "github", url = "https://github.com/Akihama-00" },
+    { name = "x", url = "https://x.com/AkhBlog" }
+  ]
 
 [params.assets]
   favicon = "favicon.ico"
-#   customCSS = ["css/custom.css"]  # ← カスタムデザインしたいときに使います
+  customCSS = ["css/custom.css"]  # ← カスタムデザインしたいときに使います
 
-# [markup]
-#   [markup.goldmark]
-#     [markup.goldmark.renderer]
-#       unsafe = true
-
-
-# [params.homeInfoParams]
-#   Title = "👋 はじめまして、○○です！"
-#   Content = """
-# <p align="center">
-#   <img src="/images/0_home/cat-sunglasses.jpg" alt="プロフィール画像" class="profile-img" width="100" height="100">
-# </p>
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 
-# ---
+[params.profileMode]
+enabled = true
+title = "こんにちは、Akihamaです！"
+subtitle = "システムエンジニアとして、日々成長中。"
+imageUrl = "images/cat-sunglasses.jpg"
+imageTitle = "プロフィール画像"
+imageWidth = 120
+imageHeight = 120
 
-# ### 👤 経歴  
-# - 💼 スタートアップ企業で **2年間** Webシステム開発  
-# - 🧠 DXコンサル 🔰 / システム開発 / フリーランスエンジニアとして活動中 ❗️🆕
-
-# ---
-
-# ### 💻 経験言語・スキル
-
-# #### 📘 使用言語
-# - Python（Django）
-# - JavaScript（React / Next.js）
-# - HTML / CSS
-
-# #### 🧰 ツール類
-# - Docker  
-# - Git / GitHub  
-
-# ---
-
-# このブログでは、技術ノウハウ・エンジニアの働き方・ライフハックなどを、気ままに発信していきます。  
-# ゆるく、でも役立つコンテンツを目指して書いていきますので、どうぞよろしくお願いします🙌
-# """

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog on AkiHama Blog</title>
+    <title>Blog on 🏠HOME🏠</title>
     <link>https://akihama-00.github.io/my-blog/tags/blog/</link>
-    <description>Recent content in Blog on AkiHama Blog</description>
+    <description>Recent content in Blog on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 24 Mar 2025 10:00:00 +0900</lastBuildDate>
@@ -39,7 +39,8 @@
 少しずつ自分のペースで投稿していきます。&lt;/p&gt;
 &lt;p&gt;拙い部分もあるかもしれませんが、温かく見守っていただけると嬉しいです。&lt;br&gt;
 どうぞよろしくお願いします！&lt;/p&gt;
-&lt;hr&gt;</description>
+&lt;hr&gt;
+&lt;!-- _この記事は Hugo の `hugo new posts/first-post.md` で作成されました。_ --&gt;</description>
     </item>
   </channel>
 </rss>

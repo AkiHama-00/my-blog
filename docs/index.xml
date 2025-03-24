@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AkiHama Blog</title>
+    <title>🏠HOME🏠</title>
     <link>https://akihama-00.github.io/my-blog/</link>
-    <description>Recent content on AkiHama Blog</description>
+    <description>Recent content on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 24 Mar 2025 10:00:00 +0900</lastBuildDate>
@@ -39,7 +39,31 @@
 少しずつ自分のペースで投稿していきます。&lt;/p&gt;
 &lt;p&gt;拙い部分もあるかもしれませんが、温かく見守っていただけると嬉しいです。&lt;br&gt;
 どうぞよろしくお願いします！&lt;/p&gt;
-&lt;hr&gt;</description>
+&lt;hr&gt;
+&lt;!-- _この記事は Hugo の `hugo new posts/first-post.md` で作成されました。_ --&gt;</description>
+    </item>
+    <item>
+      <title>経歴</title>
+      <link>https://akihama-00.github.io/my-blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://akihama-00.github.io/my-blog/about/</guid>
+      <description>&lt;h2 id=&#34;-経歴&#34;&gt;👤 経歴&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ガソリンスタンド店員&lt;/li&gt;
+&lt;li&gt;スタートアップ企業にてWebシステム開発&lt;/li&gt;
+&lt;li&gt;中小企業でDXコンサル + 技術支援及びWebシステム開発 + フリーランスエンジニア🔰&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-使用言語&#34;&gt;📘 使用言語&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python（Django）&lt;/li&gt;
+&lt;li&gt;JavaScript（React / Next.js）&lt;/li&gt;
+&lt;li&gt;HTML / CSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-ツール類&#34;&gt;🧰 ツール類&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Git / GitHub&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
