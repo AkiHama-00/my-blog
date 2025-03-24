@@ -1,0 +1,12 @@
+/* プロフィール画像用のスタイル */
+.profile-img {
+    border-radius: 50%;        /* 角を丸く（円形） */
+    object-fit: cover;         /* 縦横比を保ってトリミング */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* 軽い影で立体感 */
+    border: 2px solid #e0e0e0; /* 薄い枠線（お好みで） */
+  }
+  
+  body {
+    background-color: lightyellow !important;
+  }
+  
