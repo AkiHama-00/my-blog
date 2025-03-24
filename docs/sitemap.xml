@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://akihama.github.io/</loc>
     <lastmod>2025-03-24T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://akihama.github.io/tags/blog/</loc>
     <lastmod>2025-03-24T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://akihama.github.io/categories/</loc>
     <lastmod>2025-03-24T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://akihama.github.io/tags/hugo/</loc>
     <lastmod>2025-03-24T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://akihama.github.io/posts/</loc>
     <lastmod>2025-03-24T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://akihama.github.io/tags/</loc>
     <lastmod>2025-03-24T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
+    <loc>https://akihama.github.io/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
     <lastmod>2025-03-24T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/1_first-post/</loc>
+    <loc>https://akihama.github.io/posts/1_first-post/</loc>
     <lastmod>2025-03-24T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E5%88%9D%E6%8A%95%E7%A8%BF/</loc>
+    <loc>https://akihama.github.io/tags/%E5%88%9D%E6%8A%95%E7%A8%BF/</loc>
     <lastmod>2025-03-24T10:00:00+09:00</lastmod>
   </url>
 </urlset>
