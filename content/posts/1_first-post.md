@@ -5,7 +5,7 @@ draft: false
 tags: ["blog", "初投稿", "Hugo"]
 categories: ["お知らせ"]
 cover:
-  image: "images/first-post/ocean.jpg"
+  image: "images/1_first-post/ocean.jpg"
   alt: "初投稿を告知する幻想的な海岸の写真"
 #   caption: "画像の下に表示するキャプション"
   relative: false  # 必要なら絶対パス扱いに
