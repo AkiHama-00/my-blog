@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-blog/posts/3_post/</loc>
+    <loc>https://akihama-00.github.io/my-blog/posts/3_post/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/2_post/</loc>
+    <loc>https://akihama-00.github.io/my-blog/posts/2_post/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/</loc>
+    <loc>https://akihama-00.github.io/my-blog/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/categories/</loc>
+    <loc>https://akihama-00.github.io/my-blog/categories/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/ci/cd/</loc>
+    <loc>https://akihama-00.github.io/my-blog/tags/ci/cd/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/github-actions/</loc>
+    <loc>https://akihama-00.github.io/my-blog/tags/github-actions/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/github-pages/</loc>
+    <loc>https://akihama-00.github.io/my-blog/tags/github-pages/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/google-analytics/</loc>
+    <loc>https://akihama-00.github.io/my-blog/tags/google-analytics/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/hugo/</loc>
+    <loc>https://akihama-00.github.io/my-blog/tags/hugo/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/papermod/</loc>
+    <loc>https://akihama-00.github.io/my-blog/tags/papermod/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/</loc>
+    <loc>https://akihama-00.github.io/my-blog/posts/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/categories/seo%E5%AF%BE%E7%AD%96/</loc>
+    <loc>https://akihama-00.github.io/my-blog/categories/seo%E5%AF%BE%E7%AD%96/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/</loc>
+    <loc>https://akihama-00.github.io/my-blog/tags/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/ublock-origin/</loc>
+    <loc>https://akihama-00.github.io/my-blog/tags/ublock-origin/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</loc>
+    <loc>https://akihama-00.github.io/my-blog/tags/%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/categories/%E3%83%96%E3%83%AD%E3%82%B0%E6%A7%8B%E7%AF%89/</loc>
+    <loc>https://akihama-00.github.io/my-blog/categories/%E3%83%96%E3%83%AD%E3%82%B0%E6%A7%8B%E7%AF%89/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88/</loc>
+    <loc>https://akihama-00.github.io/my-blog/tags/%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88/</loc>
     <lastmod>2025-04-03T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/blog/</loc>
-    <lastmod>2025-03-24T10:00:00+09:00</lastmod>
+    <loc>https://akihama-00.github.io/my-blog/tags/blog/</loc>
+    <lastmod>2025-03-24T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
-    <lastmod>2025-03-24T10:00:00+09:00</lastmod>
+    <loc>https://akihama-00.github.io/my-blog/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
+    <lastmod>2025-03-24T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/1_post/</loc>
-    <lastmod>2025-03-24T10:00:00+09:00</lastmod>
+    <loc>https://akihama-00.github.io/my-blog/posts/1_post/</loc>
+    <lastmod>2025-03-24T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/%E5%88%9D%E6%8A%95%E7%A8%BF/</loc>
-    <lastmod>2025-03-24T10:00:00+09:00</lastmod>
+    <loc>https://akihama-00.github.io/my-blog/tags/%E5%88%9D%E6%8A%95%E7%A8%BF/</loc>
+    <lastmod>2025-03-24T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/search/</loc>
+    <loc>https://akihama-00.github.io/my-blog/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-blog/about/</loc>
+    <loc>https://akihama-00.github.io/my-blog/about/</loc>
   </url>
 </urlset>
