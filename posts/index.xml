@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 🏠HOME🏠</title><link>https://akihama-00.github.io/my-blog/posts/</link><description>Recent content in Posts on 🏠HOME🏠</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Mon, 24 Mar 2025 10:00:00 +0900</lastBuildDate><atom:link href="https://akihama-00.github.io/my-blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>初回投稿！</title><link>https://akihama-00.github.io/my-blog/posts/1_first-post/</link><pubDate>Mon, 24 Mar 2025 10:00:00 +0900</pubDate><guid>https://akihama-00.github.io/my-blog/posts/1_first-post/</guid><description>&lt;p>こんにちは、はじめまして！🌱&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 🏠HOME🏠</title><link>https://akihama-00.github.io/my-blog/posts/</link><description>Recent content in Posts on 🏠HOME🏠</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://akihama-00.github.io/my-blog/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>【初心者向け】Hugo + GitHub Pages + Actions でブログを自動デプロイする方法（PaperMod対応）</title><link>https://akihama-00.github.io/my-blog/posts/2_post/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0900</pubDate><guid>https://akihama-00.github.io/my-blog/posts/2_post/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+&lt;p>Hugo でブログを作成し、GitHub Pages で公開しようとした際に、次のような壁にぶつかりました。&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>README.md&lt;/code> しか表示されない&lt;/li>
+&lt;li>&lt;code>github-actions[bot]&lt;/code> による push が 403 エラーで拒否される&lt;/li>
+&lt;li>自動デプロイがうまく動かない&lt;/li>
+&lt;/ul>
+&lt;p>この記事では、私が実際に解決した手順をもとに、&lt;strong>Hugo + GitHub Pages + GitHub Actions を使った静的ブログの自動公開方法&lt;/strong>を、初心者向けに丁寧に解説します。&lt;/p>
+&lt;hr>
+&lt;h2 id="使用した技術スタック">使用した技術スタック&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Hugo&lt;/strong>（静的サイトジェネレーター）&lt;/li>
+&lt;li>&lt;strong>テーマ&lt;/strong>：PaperMod&lt;/li>
+&lt;li>&lt;strong>GitHub Pages&lt;/strong>（ホスティング）&lt;/li>
+&lt;li>&lt;strong>GitHub Actions&lt;/strong>（CI/CD）&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="構成の全体図">構成の全体図&lt;/h2>
+&lt;pre tabindex="0">&lt;code>Hugo（ローカル）
+ ↓ push
+GitHub（main または master ブランチ）
+ ↓ GitHub Actions が起動
+gh-pages ブランチに public/ を push
+ ↓
+GitHub Pages で公開
+&lt;/code>&lt;/pre>&lt;hr>
+&lt;h2 id="1-hugo-プロジェクトを作成">1. Hugo プロジェクトを作成&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo new site my-blog
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cd my-blog
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git init
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="2-papermod-テーマを導入">2. PaperMod テーマを導入&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>echo &lt;span style="color:#e6db74">&amp;#39;theme = &amp;#34;PaperMod&amp;#34;&amp;#39;&lt;/span> &amp;gt;&amp;gt; hugo.toml
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;code>config.toml&lt;/code>（または &lt;code>hugo.toml&lt;/code>）に &lt;code>baseURL&lt;/code> も忘れずに設定します。&lt;/p></description></item><item><title>初回投稿！</title><link>https://akihama-00.github.io/my-blog/posts/1_post/</link><pubDate>Mon, 24 Mar 2025 10:00:00 +0900</pubDate><guid>https://akihama-00.github.io/my-blog/posts/1_post/</guid><description>&lt;p>こんにちは、はじめまして！🌱&lt;br>
 これは僕のブログの最初の投稿です。&lt;/p>
 &lt;hr>
 &lt;h2 id="-このブログを始めた理由">🚀 このブログを始めた理由&lt;/h2>
