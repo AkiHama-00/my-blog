@@ -4,6 +4,8 @@ title = '🏠HOME🏠'
 theme = 'PaperMod'
 defaultContentLanguage = "ja"
 timeZone = "Asia/Tokyo"
+googleAnalytics = "$HUGO_GOOGLEANALYTICS"
+
 
 [[menu.main]]
   identifier = "posts"
