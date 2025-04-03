@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CI/CD on 🏠HOME🏠</title><link>https://akihama-00.github.io/my-blog/tags/ci/cd/</link><description>Recent content in CI/CD on 🏠HOME🏠</description><generator>Hugo</generator><language>ja-jp</language><lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://akihama-00.github.io/my-blog/tags/ci/cd/index.xml" rel="self" type="application/rss+xml"/><item><title>【初心者向け】Hugo + GitHub Pages + Actions でブログを自動デプロイする方法（PaperMod対応）</title><link>https://akihama-00.github.io/my-blog/posts/2_post/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0900</pubDate><guid>https://akihama-00.github.io/my-blog/posts/2_post/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CI/CD on 🏠HOME🏠</title><link>https://akihama-00.github.io/my-blog/tags/ci/cd/</link><description>Recent content in CI/CD on 🏠HOME🏠</description><generator>Hugo -- 0.145.0</generator><language>ja-jp</language><lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://akihama-00.github.io/my-blog/tags/ci/cd/index.xml" rel="self" type="application/rss+xml"/><item><title>【初心者向け】Hugo + GitHub Pages + Actions でブログを自動デプロイする方法（PaperMod対応）</title><link>https://akihama-00.github.io/my-blog/posts/2_post/</link><pubDate>Thu, 03 Apr 2025 00:00:00 +0900</pubDate><guid>https://akihama-00.github.io/my-blog/posts/2_post/</guid><description>&lt;h2 id="はじめに">はじめに&lt;/h2>
 &lt;p>Hugo でブログを作成し、GitHub Pages で公開しようとした際に、次のような壁にぶつかりました。&lt;/p>
 &lt;ul>
 &lt;li>&lt;code>README.md&lt;/code> しか表示されない&lt;/li>
@@ -17,11 +17,11 @@
 &lt;hr>
 &lt;h2 id="構成の全体図">構成の全体図&lt;/h2>
 &lt;pre tabindex="0">&lt;code>Hugo（ローカル）
- ↓ push
+↓ push
 GitHub（main または master ブランチ）
- ↓ GitHub Actions が起動
+↓ GitHub Actions が起動
 gh-pages ブランチに public/ を push
- ↓
+↓
 GitHub Pages で公開
 &lt;/code>&lt;/pre>&lt;hr>
 &lt;h2 id="1-hugo-プロジェクトを作成">1. Hugo プロジェクトを作成&lt;/h2>
