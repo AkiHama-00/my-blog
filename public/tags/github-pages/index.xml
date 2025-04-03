@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GitHub Pages on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/tags/github-pages/</link>
+    <description>Recent content in GitHub Pages on 🏠HOME🏠</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【初心者向け】Hugo &#43; GitHub Pages &#43; Actions でブログを自動デプロイする方法（PaperMod対応）</title>
+      <link>http://localhost:1313/my-blog/posts/2_post/</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/2_post/</guid>
+      <description>&lt;h2 id=&#34;はじめに&#34;&gt;はじめに&lt;/h2&gt;
+&lt;p&gt;Hugo でブログを作成し、GitHub Pages で公開しようとした際に、次のような壁にぶつかりました。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;README.md&lt;/code&gt; しか表示されない&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;github-actions[bot]&lt;/code&gt; による push が 403 エラーで拒否される&lt;/li&gt;
+&lt;li&gt;自動デプロイがうまく動かない&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;この記事では、私が実際に解決した手順をもとに、&lt;strong&gt;Hugo + GitHub Pages + GitHub Actions を使った静的ブログの自動公開方法&lt;/strong&gt;を、初心者向けに丁寧に解説します。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;使用した技術スタック&#34;&gt;使用した技術スタック&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt;（静的サイトジェネレーター）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;テーマ&lt;/strong&gt;：PaperMod&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Pages&lt;/strong&gt;（ホスティング）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Actions&lt;/strong&gt;（CI/CD）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;構成の全体図&#34;&gt;構成の全体図&lt;/h2&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Hugo（ローカル）
+   ↓ push
+GitHub（main または master ブランチ）
+   ↓ GitHub Actions が起動
+gh-pages ブランチに public/ を push
+   ↓
+GitHub Pages で公開
+&lt;/code&gt;&lt;/pre&gt;&lt;hr&gt;
+&lt;h2 id=&#34;1-hugo-プロジェクトを作成&#34;&gt;1. Hugo プロジェクトを作成&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new site my-blog
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cd my-blog
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;2-papermod-テーマを導入&#34;&gt;2. PaperMod テーマを導入&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git submodule add https://github.com/adityatelange/hugo-PaperMod.git themes/PaperMod
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;theme = &amp;#34;PaperMod&amp;#34;&amp;#39;&lt;/span&gt; &amp;gt;&amp;gt; hugo.toml
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;config.toml&lt;/code&gt;（または &lt;code&gt;hugo.toml&lt;/code&gt;）に &lt;code&gt;baseURL&lt;/code&gt; も忘れずに設定します。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

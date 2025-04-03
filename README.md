@@ -101,6 +101,9 @@ git push origin main
 | デプロイ確認（GitHub Pages表示）  | 毎回の公開後     | ブラウザで `https://your-name.github.io/` を確認            | 表示崩れやリンク切れ確認 |
 | GitHub Pages のビルドログ確認     | デプロイ失敗時   | GitHub → Actions → 該当ワークフローでログ確認              | デプロイ失敗時のトラブルシュート |
 | `public/` の git 管理確認         | 公開するたび     | `git status` / `git add .` / `git commit` / `git push`      | GitHub Pages へ正しく反映させるため |
+| ブログのヘッダー全面画像         | 記事作成時     | cover: image: "" alt: ""を使用する      | 画像サイズ　1920 x 1080 |
+
+	横長 1200x630 px 程度（16:9）がおすすめ
 
 ---
 
