@@ -3,7 +3,7 @@ title: "【初心者向け】Hugo + GitHub Pages + Actions でブログを自動
 date: 2025-04-03
 tags: ["Hugo", "GitHub Pages", "GitHub Actions", "CI/CD", "静的サイト", "PaperMod"]
 categories: ["ブログ構築"]
-draft: false
+description: "Hugo × GitHub Pages × GitHub Actions を使った静的ブログの自動デプロイ手順を、初心者向けに完全解説。PaperMod テーマ対応、CI/CD の設定方法、403 エラーや README.md 問題の対処法まで網羅。無料で始めるモダンなブログ構築ガイドをお探しの方に最適です。"
 cover:
   image: "images/2_post/hugo_githubactions.png"
   alt: "Hugo + Github Actions Automated Deployment"
