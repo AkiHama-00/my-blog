@@ -4,6 +4,7 @@ title = '🏠HOME🏠'
 theme = 'PaperMod'
 defaultContentLanguage = "ja"
 timeZone = "Asia/Tokyo"
+googleAnalytics = "G-P9201X7CLY"
 
 
 [[menu.main]]
@@ -39,6 +40,7 @@ timeZone = "Asia/Tokyo"
     { name = "github", url = "https://github.com/Akihama-00" },
     { name = "x", url = "https://x.com/AkhBlog" }
   ]
+  env = "production"
 
 [params.assets]
   favicon = "favicon.ico"
