@@ -8,8 +8,6 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
-    env:
-      HUGO_GOOGLE_ANALYTICS: ${{ secrets.HUGO_GOOGLE_ANALYTICS }}
 
     steps:
       - name: Checkout source
