@@ -42,6 +42,11 @@ googleAnalytics = "G-P9201X7CLY"
   ]
   env = "production"
 
+  [services]
+  [services.googleAnalytics]
+    id = "G-P9201X7CLY"
+
+
 [params.assets]
   favicon = "favicon.ico"
   customCSS = ["css/custom.css"]  # ← カスタムデザインしたいときに使います
