@@ -1,6 +1,6 @@
 ---
 title: "初回投稿！"
-date: 2025-03-24T10:00:00+09:00
+date: 2025-03-24
 draft: false
 tags: ["blog", "初投稿", "Hugo", "PaperMod"]
 categories: ["お知らせ"]
