@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HubermanLab on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/tags/hubermanlab/</link>
+    <description>Recent content in HubermanLab on 🏠HOME🏠</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 07 Apr 2025 09:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/tags/hubermanlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>エンジニアのための口腔マイクロバイオーム入門：歯から始める全身最適化</title>
+      <link>http://localhost:1313/my-blog/posts/7_post/</link>
+      <pubDate>Mon, 07 Apr 2025 09:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/7_post/</guid>
+      <description>Huberman Lab PodcastのDr. Staci Whitmanとの対談をもとに、エンジニアが知るべき最新の口腔マイクロバイオーム事情と実践的なケア方法を解説します。</description>
+    </item>
+  </channel>
+</rss>
