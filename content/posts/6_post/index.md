@@ -3,6 +3,7 @@ title: "バーコンサルタントが年商3倍を目指すために行った�
 date: 2025-04-07T02:00:00+09:00
 tags: ["ビジネス改善", "ファネル", "セールス", "オファー設計", "飲食業", "Acquisition.com", "Alex Hormozi"]
 categories: ["ビジネス戦略", "セールスファネル", "オファー設計", "飲食業向けマーケティング"]
+summary: "売れない高額オファーの原因は価格ではなく“売り方”だった。Acquisition.comのAlex Hormoziが提案したファネル再設計とオファー構築術により、飲食業コンサルの年商を3倍に導いたプロセスを解説。"
 description: "バーやレストラン向けの高額コンサルティングが売れない本当の理由とは？Acquisition.comが提案したファネルの再構築とオファー設計術を徹底解説。"
 cover:
   image: "images/6_post/consulting.png"
