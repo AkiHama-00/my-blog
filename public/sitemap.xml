@@ -3,21 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/my-blog/</loc>
-    <lastmod>2025-04-06T00:00:00+09:00</lastmod>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/categories/</loc>
-    <lastmod>2025-04-06T00:00:00+09:00</lastmod>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/chris-palmer/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/huberman-lab/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/posts/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E3%83%9F%E3%83%88%E3%82%B3%E3%83%B3%E3%83%89%E3%83%AA%E3%82%A2/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/posts/5_post/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/%E5%8C%BB%E7%99%82/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E6%A0%84%E9%A4%8A/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/%E7%A7%91%E5%AD%A6/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E4%BB%A3%E8%AC%9D/</loc>
+    <lastmod>2025-04-07T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/tags/deep-work/</loc>
     <lastmod>2025-04-06T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/posts/4_post/</loc>
-    <lastmod>2025-04-06T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-blog/posts/</loc>
-    <lastmod>2025-04-06T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-blog/tags/</loc>
     <lastmod>2025-04-06T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/tags/%E3%83%96%E3%83%AD%E3%82%B0%E9%81%8B%E5%96%B6/</loc>
