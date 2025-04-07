@@ -58,6 +58,13 @@
       <description></description>
     </item>
     <item>
+      <title>HIIT</title>
+      <link>http://localhost:1313/my-blog/tags/hiit/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/tags/hiit/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Huberman Lab</title>
       <link>http://localhost:1313/my-blog/tags/huberman-lab/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
@@ -83,6 +90,13 @@
       <link>http://localhost:1313/my-blog/tags/%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/tags/%E3%82%B5%E3%83%97%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ダイエット</title>
+      <link>http://localhost:1313/my-blog/tags/%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/tags/%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88/</guid>
       <description></description>
     </item>
     <item>
@@ -128,10 +142,38 @@
       <description></description>
     </item>
     <item>
+      <title>減量</title>
+      <link>http://localhost:1313/my-blog/tags/%E6%B8%9B%E9%87%8F/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/tags/%E6%B8%9B%E9%87%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>脂肪燃焼</title>
+      <link>http://localhost:1313/my-blog/tags/%E8%84%82%E8%82%AA%E7%87%83%E7%84%BC/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/tags/%E8%84%82%E8%82%AA%E7%87%83%E7%84%BC/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>神経系</title>
+      <link>http://localhost:1313/my-blog/tags/%E7%A5%9E%E7%B5%8C%E7%B3%BB/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/tags/%E7%A5%9E%E7%B5%8C%E7%B3%BB/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>代謝</title>
       <link>http://localhost:1313/my-blog/tags/%E4%BB%A3%E8%AC%9D/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/tags/%E4%BB%A3%E8%AC%9D/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>冷水シャワー</title>
+      <link>http://localhost:1313/my-blog/tags/%E5%86%B7%E6%B0%B4%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/tags/%E5%86%B7%E6%B0%B4%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC/</guid>
       <description></description>
     </item>
     <item>
