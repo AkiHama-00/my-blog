@@ -4,6 +4,7 @@ date: 2025-04-07
 tags: ["メンタルヘルス", "ミトコンドリア", "代謝", "栄養", "サプリメント", "Huberman Lab", "Chris Palmer"]
 categories: ["健康", "科学", "医療"]
 description: "精神疾患の新しい理解と治療法として注目される「ミトコンドリア仮説」。Dr. Chris PalmerとAndrew Hubermanの対談から、低脂肪ダイエットの限界、断食やサプリメントの可能性、そして栄養政策の課題までを包括的に解説します。"
+keywords: ["ミトコンドリア仮説",　"精神疾患 代謝",　"ミトコンドリア サプリメント",　"メンタルヘルス 栄養",　"ケトジェニック 精神疾患",　"断食 メンタル改善",　"超加工食品と脳",　"精神疾患とビタミン不足",　"Huberman Lab Chris Palmer",　"Brain Energy 解説"]
 cover:
   image: "images/5_post/mentalhealth.png"
   alt: "メンタル疾患とミトコンドリア"

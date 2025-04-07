@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>【解決】Hugo &#43; PaperModでGoogleアナリティクスが機能しない？原因はuBlock Originかも | 🏠HOME🏠</title>
-<meta name="keywords" content="Hugo, PaperMod, Google Analytics, uBlock Origin, トラブルシューティング">
+<meta name="keywords" content="Hugo Googleアナリティクス 設定, 　&#34;PaperMod GA4 反映されない&#34;, 　&#34;uBlock Origin Google Analytics&#34;, 　&#34;gtag.js 読み込まれない 原因&#34;, 　&#34;静的サイト アクセス解析&#34;, 　&#34;広告ブロッカー 影響 Hugo&#34;, 　&#34;Google Analytics 動作確認方法&#34;, 　&#34;Hugo ブログ GA4 トラブルシューティング&#34;, 　&#34;uBlock Analytics 307 リダイレクト&#34;, 　&#34;Hugo PaperMod 計測できない&#34;">
 <meta name="description" content="Hugo &#43; PaperModでGoogleアナリティクスが動作しない原因を徹底解説。uBlock Originなどの広告ブロッカーの影響で測定できないトラブルとその解決策を初心者向けに解説します。">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/my-blog/posts/3_post/">
@@ -128,7 +128,7 @@
   "name": "【解決】Hugo \u002b PaperModでGoogleアナリティクスが機能しない？原因はuBlock Originかも",
   "description": "Hugo + PaperModでGoogleアナリティクスが動作しない原因を徹底解説。uBlock Originなどの広告ブロッカーの影響で測定できないトラブルとその解決策を初心者向けに解説します。",
   "keywords": [
-    "Hugo", "PaperMod", "Google Analytics", "uBlock Origin", "トラブルシューティング"
+    "Hugo Googleアナリティクス 設定", "　\"PaperMod GA4 反映されない\"", "　\"uBlock Origin Google Analytics\"", "　\"gtag.js 読み込まれない 原因\"", "　\"静的サイト アクセス解析\"", "　\"広告ブロッカー 影響 Hugo\"", "　\"Google Analytics 動作確認方法\"", "　\"Hugo ブログ GA4 トラブルシューティング\"", "　\"uBlock Analytics 307 リダイレクト\"", "　\"Hugo PaperMod 計測できない\""
   ],
   "articleBody": "Hugo + PaperModでGoogleアナリティクスが機能しない？原因はuBlock Originかも 静的サイトジェネレータの Hugo と人気テーマ PaperMod を使ってブログを構築し、\nGoogleアナリティクス（GA4）の設定も済ませた。なのに、アクセスが計測されない…。\nそんなとき、見落としがちな原因のひとつが、\n広告ブロッカー（uBlock Originなど）によるスクリプトのブロックです。\n✅ この記事でわかること Hugo + PaperModでのGoogleアナリティクス設定方法（おさらい） gtag.jsが読み込まれない理由 uBlock Originがどのように影響するのか 解決策：広告ブロッカーの無効化と確認方法 1. Hugo + PaperModでGoogleアナリティクスを設定する方法 # config.toml googleAnalytics = \"G-XXXXXXXXXX\" [params] env = \"production\" googleAnalytics に GA4の測定ID（例：G-ABC123XYZ） を設定 params.env = \"production\" とすることで、本番環境のみでスクリプトが有効化されます PaperMod は内部で _internal/google_analytics.html を呼び出すため、特別なカスタマイズ不要で動作するはずです。\n2. 設定は完璧なのに…？動作しないときにまず確認すべきこと ブラウザのデベロッパーツール（F12）→ Network タブ gtag.js?id=G-XXXXX にアクセスされているか ステータスコードが 200 になっているか しかし、こんな状況に遭遇しました：\ngtag.js が 307 Internal Redirect\nLocation: chrome-extension://... にリダイレクト\n3. 原因はuBlock Originなどの広告ブロッカーだった これは、uBlock Origin などの広告ブロック系拡張機能が、Googleアナリティクスの読み込みを勝手に書き換えていたのです。\nその結果、ローカル開発中や自分のアクセスがGoogleアナリティクスに記録されないという状況に…。\n4. 解決策：広告ブロッカーの無効化 or 別ブラウザで確認 🔸 方法1：シークレットモードで開く 拡張機能が無効になるため、純粋なアクセスで確認できます。 🔸 方法2：uBlock Originなどの拡張機能を一時的に無効化 Chromeの右上のパズルアイコン → uBlock Origin 「このサイトでは無効化」をクリック 再読み込みして挙動確認 5. 本番環境ではどうなる？ 読者の多くは広告ブロッカーを使用していないため、実際のアクセスは問題なく計測されます。\n開発中は意図的に無効化しておくことで、正しいトラッキングの確認が可能になります。\n✅ まとめ 項目 内容 Google Analytics 設定 config.toml に測定IDを追加 スクリプト読み込み確認 DevTools → Networkタブで確認 ブロックされる原因 uBlock Originなどの広告ブロッカー 解決策 拡張機能を無効化 or 別環境で確認 🎁 おまけ：読者に伝えておくと良いかも？ 「広告ブロッカーを使っていると、アクセス解析が正しく行えない場合があります」\nといった注意文をフッターやプライバシーポリシーに入れておくのも有効です。\n📚 参考リンク Google アナリティクス公式ヘルプ uBlock Origin GitHub ",
   "wordCount" : "124",

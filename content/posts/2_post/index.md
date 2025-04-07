@@ -4,6 +4,7 @@ date: 2025-04-03
 tags: ["Hugo", "GitHub Pages", "GitHub Actions", "CI/CD", "静的サイト", "PaperMod"]
 categories: ["ブログ構築"]
 description: "Hugo × GitHub Pages × GitHub Actions を使った静的ブログの自動デプロイ手順を、初心者向けに完全解説。PaperMod テーマ対応、CI/CD の設定方法、403 エラーや README.md 問題の対処法まで網羅。無料で始めるモダンなブログ構築ガイドをお探しの方に最適です。"
+keywords: ["Hugo GitHub Pages 自動デプロイ",　"Hugo GitHub Actions 設定方法",　"PaperMod デプロイ手順",　"静的サイト CI/CD 初心者",　"GitHub Pages README.md 表示される",　"github-actions bot 403 エラー",　"deploy.yml Hugo テンプレート",　"Hugo ブログ GitHub Actions",　"GitHub Pages Hugo 公開できない",　"Hugo GitHub Pages トラブルシューティング"]
 cover:
   image: "images/2_post/hugo_githubactions.png"
   alt: "Hugo + Github Actions Automated Deployment"

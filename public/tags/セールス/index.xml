@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>セールス on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/tags/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9/</link>
+    <description>Recent content in セールス on 🏠HOME🏠</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/tags/%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>バーコンサルタントが年商3倍を目指すために行った“たった一つ”の大改革｜売れない高額オファーの再設計術</title>
+      <link>http://localhost:1313/my-blog/posts/6_post/</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/6_post/</guid>
+      <description>バーやレストラン向けの高額コンサルティングが売れない本当の理由とは？Acquisition.comが提案したファネルの再構築とオファー設計術を徹底解説。</description>
+    </item>
+  </channel>
+</rss>

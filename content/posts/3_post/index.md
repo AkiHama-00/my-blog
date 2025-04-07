@@ -4,6 +4,7 @@ date: 2025-04-03
 tags: ["Hugo", "PaperMod", "Google Analytics", "uBlock Origin", "トラブルシューティング"]
 categories: ["ブログ構築", "SEO対策"]
 description: "Hugo + PaperModでGoogleアナリティクスが動作しない原因を徹底解説。uBlock Originなどの広告ブロッカーの影響で測定できないトラブルとその解決策を初心者向けに解説します。"
+keywords: ["Hugo Googleアナリティクス 設定",　"PaperMod GA4 反映されない",　"uBlock Origin Google Analytics",　"gtag.js 読み込まれない 原因",　"静的サイト アクセス解析",　"広告ブロッカー 影響 Hugo",　"Google Analytics 動作確認方法",　"Hugo ブログ GA4 トラブルシューティング",　"uBlock Analytics 307 リダイレクト",　"Hugo PaperMod 計測できない"]
 cover:
   image: "images/3_post/hugo_papermod_googleanalytics.png"
   alt: "Hugo + PaperMod + Googleアナリティクス"
