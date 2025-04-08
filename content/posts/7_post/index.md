@@ -13,7 +13,7 @@ relative: false
 hidden: false
 ---
 
-{{< youtube "_oOEKKiwdDE&t=10s" >}}
+[元動画はこちらから](https://www.youtube.com/watch?v=_oOEKKiwdDE&t=10s)
 
 # エンジニアのための口腔マイクロバイオーム
 
