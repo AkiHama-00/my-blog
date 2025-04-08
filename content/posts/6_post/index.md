@@ -13,6 +13,8 @@ relative: false  # 必要なら絶対パス扱いに
 hidden: false     # trueにすると記事内には表示されずOGPのみ
 ---
 
+[元動画はこちらから](https://www.youtube.com/watch?v=n6SHLmKcY0E)
+
 ## はじめに
 
 「$30,000のサービスが全く売れない…」
