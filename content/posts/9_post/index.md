@@ -6,6 +6,7 @@ description: "TED Talkで語られたIra Bedzow氏の対話から、自分の価
 cover:
   image: "images/9_post/livinggoodlife.png"
   alt: "価値観に基づいた生き方"
+keywords: ["価値観に基づいた生き方", "Ira Bedzow", "倫理学者", "目的の見つけ方", "成功の定義", "自己成長", "人生の意味", "バーンアウト対策", "自己実現", "TED トーク"]
 tags: ["自己成長", "価値観", "目的", "倫理", "バーンアウト対策", "TED"]
 categories: ["ライフスタイル", "自己啓発"]
 ---
