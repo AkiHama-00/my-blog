@@ -6,8 +6,22 @@
     <description>Recent content in Categories on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/my-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ビジネス</title>
+      <link>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ライフスタイル</title>
+      <link>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/</guid>
+      <description></description>
+    </item>
     <item>
       <title>トレーニング理論</title>
       <link>http://localhost:1313/my-blog/categories/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E7%90%86%E8%AB%96/</link>
@@ -41,13 +55,6 @@
       <link>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ライフスタイル</title>
-      <link>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/</link>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/</guid>
       <description></description>
     </item>
     <item>

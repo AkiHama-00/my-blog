@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>自己啓発 on 🏠HOME🏠</title>
-    <link>http://localhost:1313/my-blog/tags/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</link>
-    <description>Recent content in 自己啓発 on 🏠HOME🏠</description>
+    <title>成功哲学 on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/tags/%E6%88%90%E5%8A%9F%E5%93%B2%E5%AD%A6/</link>
+    <description>Recent content in 成功哲学 on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/tags/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-blog/tags/%E6%88%90%E5%8A%9F%E5%93%B2%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>成功者に共通する14の厳しい真実｜Alex Hormoziの教え【補足解説付き】</title>
       <link>http://localhost:1313/my-blog/posts/12_post/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/posts/12_post/</guid>
       <description>Acquisition.com創業者Alex Hormoziが語る『成功をつかむための14の厳しい真実』を詳しく解説。痛みと成長、集中と継続、後悔と挑戦など、人生とビジネスで結果を出すための思考法と実践アドバイスをまとめた完全ガイド。</description>
-    </item>
-    <item>
-      <title>【要約】Lori Gottlieb × Huberman｜恋愛、自己理解、そして癒しの心理学</title>
-      <link>http://localhost:1313/my-blog/posts/10_post/</link>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/10_post/</guid>
-      <description>ベストセラー著者Lori Gottliebと神経科学者Andrew Hubermanによる深くてユーモラスな対談。恋愛関係、自己認識、癒しのプロセスにおける実践的なツールを紹介します。</description>
     </item>
   </channel>
 </rss>

@@ -131,7 +131,8 @@ Huberman氏が言うように、**「圧力をかけること」と「平穏を�
 
 ---
 
-📌 **参考エピソード**  
+📌 **参考エピソード** 
+ 
 🎧 [元動画：How to Increase Your Speed, Mobility & Longevity with Plyometrics & Sprinting | Stuart McMillan](https://www.youtube.com/watch?v=U3cSnzdyyXU)  
 
 ---
