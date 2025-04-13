@@ -6,8 +6,36 @@
     <description>Recent content in Categories on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/my-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ライフデザイン</title>
+      <link>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>起業</title>
+      <link>http://localhost:1313/my-blog/categories/%E8%B5%B7%E6%A5%AD/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E8%B5%B7%E6%A5%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>教育</title>
+      <link>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>社会批評</title>
+      <link>http://localhost:1313/my-blog/categories/%E7%A4%BE%E4%BC%9A%E6%89%B9%E8%A9%95/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E7%A4%BE%E4%BC%9A%E6%89%B9%E8%A9%95/</guid>
+      <description></description>
+    </item>
     <item>
       <title>ビジネス</title>
       <link>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</link>
@@ -48,13 +76,6 @@
       <link>http://localhost:1313/my-blog/categories/%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E8%A6%81%E7%B4%84/</link>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E8%A6%81%E7%B4%84/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ライフデザイン</title>
-      <link>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</link>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</guid>
       <description></description>
     </item>
     <item>

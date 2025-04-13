@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>社会構造 on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/tags/%E7%A4%BE%E4%BC%9A%E6%A7%8B%E9%80%A0/</link>
+    <description>Recent content in 社会構造 on 🏠HOME🏠</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/tags/%E7%A4%BE%E4%BC%9A%E6%A7%8B%E9%80%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【現代社会の真実】教育、経済、政治…あなたの人生は操作されている？主体性を取り戻すための起業的思考とは</title>
+      <link>http://localhost:1313/my-blog/posts/13_post/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/13_post/</guid>
+      <description>現代の教育システム、経済構造、政治的分断によって私たちの生活はどう影響を受けているのか？その真実と、個人が自由を取り戻すために起業という選択肢がどのように機能するのかを徹底解説。</description>
+    </item>
+  </channel>
+</rss>

@@ -2,19 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-blog/</loc>
-    <lastmod>2025-04-11T00:00:00+09:00</lastmod>
+    <loc>http://localhost:1313/my-blog/posts/13_post/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/alex-hormozi/</loc>
-    <lastmod>2025-04-11T00:00:00+09:00</lastmod>
+    <loc>http://localhost:1313/my-blog/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/ai%E3%81%A8%E6%95%99%E8%82%B2/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/categories/</loc>
-    <lastmod>2025-04-11T00:00:00+09:00</lastmod>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/posts/</loc>
-    <lastmod>2025-04-11T00:00:00+09:00</lastmod>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/tags/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/%E8%B5%B7%E6%A5%AD/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E8%B5%B7%E6%A5%AD/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E6%95%99%E8%82%B2%E6%94%B9%E9%9D%A9/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E7%8F%BE%E4%BB%A3%E5%95%8F%E9%A1%8C/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E8%87%AA%E5%B7%B1%E5%AE%9F%E7%8F%BE/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E7%A4%BE%E4%BC%9A%E6%A7%8B%E9%80%A0/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/%E7%A4%BE%E4%BC%9A%E6%89%B9%E8%A9%95/</loc>
+    <lastmod>2025-04-13T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/alex-hormozi/</loc>
     <lastmod>2025-04-11T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</loc>
@@ -24,9 +57,6 @@
     <lastmod>2025-04-11T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB/</loc>
-    <lastmod>2025-04-11T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-blog/tags/%E8%B5%B7%E6%A5%AD/</loc>
     <lastmod>2025-04-11T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/tags/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</loc>
@@ -78,9 +108,6 @@
     <lastmod>2025-04-09T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/categories/%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E8%A6%81%E7%B4%84/</loc>
-    <lastmod>2025-04-09T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3/</loc>
     <lastmod>2025-04-09T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/tags/%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
