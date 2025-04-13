@@ -13,6 +13,9 @@ cover:
   hidden: false
 ---
 
+{{< youtube cdFu4tb1Uz8>}}
+[元動画：Watch These 27 Minutes To Take Back Control Of Your Life](https://www.youtube.com/watch?v=cdFu4tb1Uz8)
+
 ## はじめに
 
 現代社会では、政治的分断、情報操作、経済的不平等など、さまざまな問題が私たちの生活を複雑にしています。「自由に生きる」とは言いながら、実際は教育、制度、メディア、アルゴリズムによって“管理される人生”を歩んでいる人が多いのではないでしょうか。
@@ -74,3 +77,8 @@ cover:
 
 ---
 
+📌 **参考エピソード** 
+
+[元動画：Watch These 27 Minutes To Take Back Control Of Your Life](https://www.youtube.com/watch?v=cdFu4tb1Uz8)
+
+---
