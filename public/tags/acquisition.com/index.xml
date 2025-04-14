@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Acquisition.com on 🏠HOME🏠</title>
-    <link>https://akihama-00.github.io/my-blog/tags/acquisition.com/</link>
+    <link>http://localhost:1313/my-blog/tags/acquisition.com/</link>
     <description>Recent content in Acquisition.com on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 07 Apr 2025 02:00:00 +0900</lastBuildDate>
-    <atom:link href="https://akihama-00.github.io/my-blog/tags/acquisition.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-blog/tags/acquisition.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>バーコンサルタントが年商3倍を目指すために行った“たった一つ”の大改革｜売れない高額オファーの再設計術</title>
-      <link>https://akihama-00.github.io/my-blog/posts/6_post/</link>
+      <link>http://localhost:1313/my-blog/posts/6_post/</link>
       <pubDate>Mon, 07 Apr 2025 02:00:00 +0900</pubDate>
-      <guid>https://akihama-00.github.io/my-blog/posts/6_post/</guid>
+      <guid>http://localhost:1313/my-blog/posts/6_post/</guid>
       <description>バーやレストラン向けの高額コンサルティングが売れない本当の理由とは？Acquisition.comが提案したファネルの再構築とオファー設計術を徹底解説。</description>
     </item>
   </channel>

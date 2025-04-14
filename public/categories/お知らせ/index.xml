@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>お知らせ on 🏠HOME🏠</title>
-    <link>https://akihama-00.github.io/my-blog/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+    <link>http://localhost:1313/my-blog/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
     <description>Recent content in お知らせ on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://akihama-00.github.io/my-blog/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-blog/categories/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>初回投稿！</title>
-      <link>https://akihama-00.github.io/my-blog/posts/1_post/</link>
+      <link>http://localhost:1313/my-blog/posts/1_post/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0900</pubDate>
-      <guid>https://akihama-00.github.io/my-blog/posts/1_post/</guid>
+      <guid>http://localhost:1313/my-blog/posts/1_post/</guid>
       <description>&lt;p&gt;こんにちは、はじめまして！🌱&lt;br&gt;
 これは僕のブログの最初の投稿です。&lt;/p&gt;
 &lt;hr&gt;

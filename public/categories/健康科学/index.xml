@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>健康科学 on 🏠HOME🏠</title>
-    <link>https://akihama-00.github.io/my-blog/categories/%E5%81%A5%E5%BA%B7%E7%A7%91%E5%AD%A6/</link>
+    <link>http://localhost:1313/my-blog/categories/%E5%81%A5%E5%BA%B7%E7%A7%91%E5%AD%A6/</link>
     <description>Recent content in 健康科学 on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://akihama-00.github.io/my-blog/categories/%E5%81%A5%E5%BA%B7%E7%A7%91%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-blog/categories/%E5%81%A5%E5%BA%B7%E7%A7%91%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>スプリントに学ぶ自己表現とパフォーマンスの本質｜Huberman Lab × Stuart McMillan</title>
-      <link>https://akihama-00.github.io/my-blog/posts/11_post/</link>
+      <link>http://localhost:1313/my-blog/posts/11_post/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>https://akihama-00.github.io/my-blog/posts/11_post/</guid>
+      <guid>http://localhost:1313/my-blog/posts/11_post/</guid>
       <description>スプリントコーチStuart McMillanとの対談をもとに、スポーツにおける自己表現・動作の本質・加齢への対応・トレーニング理論を解説。日常動作や筋トレにどう活かすかも解説。</description>
     </item>
   </channel>
