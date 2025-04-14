@@ -9,8 +9,8 @@ summary: "今の社会は、教育・政治・経済を通して私たちの思�
 cover:
   image: "images/13_post/theylied.png"
   alt: "社会構造からの解放を象徴する都市と光のアート"
-  relative: false
-  hidden: false
+relative: false
+hidden: false
 ---
 
 {{< youtube cdFu4tb1Uz8>}}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ADHD on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/tags/adhd/</link>
+    <description>Recent content in ADHD on 🏠HOME🏠</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 14 Apr 2025 13:17:11 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/tags/adhd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADHDを科学で読み解く：薬物療法・行動療法・神経メカニズムの最新知見まとめ</title>
+      <link>http://localhost:1313/my-blog/posts/14_post/</link>
+      <pubDate>Mon, 14 Apr 2025 13:17:11 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/14_post/</guid>
+      <description>ADHDの神経科学的メカニズムから薬物・非薬物療法、サプリメント、生活習慣までをDr. John KruseとHubermanが徹底解説。実用的な改善アプローチを紹介します。</description>
+    </item>
+  </channel>
+</rss>
