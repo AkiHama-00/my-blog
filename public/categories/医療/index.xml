@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>医療 on 🏠HOME🏠</title>
-    <link>http://localhost:1313/my-blog/categories/%E5%8C%BB%E7%99%82/</link>
+    <link>https://akihama-00.github.io/my-blog/categories/%E5%8C%BB%E7%99%82/</link>
     <description>Recent content in 医療 on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/categories/%E5%8C%BB%E7%99%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akihama-00.github.io/my-blog/categories/%E5%8C%BB%E7%99%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>メンタル疾患とミトコンドリア：最新研究から見える治療と予防の未来</title>
-      <link>http://localhost:1313/my-blog/posts/5_post/</link>
+      <link>https://akihama-00.github.io/my-blog/posts/5_post/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/5_post/</guid>
+      <guid>https://akihama-00.github.io/my-blog/posts/5_post/</guid>
       <description>精神疾患の新しい理解と治療法として注目される「ミトコンドリア仮説」。Dr. Chris PalmerとAndrew Hubermanの対談から、低脂肪ダイエットの限界、断食やサプリメントの可能性、そして栄養政策の課題までを包括的に解説します。</description>
     </item>
   </channel>

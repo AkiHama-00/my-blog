@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>価値観 on 🏠HOME🏠</title>
-    <link>http://localhost:1313/my-blog/tags/%E4%BE%A1%E5%80%A4%E8%A6%B3/</link>
+    <link>https://akihama-00.github.io/my-blog/tags/%E4%BE%A1%E5%80%A4%E8%A6%B3/</link>
     <description>Recent content in 価値観 on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 08 Apr 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/tags/%E4%BE%A1%E5%80%A4%E8%A6%B3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akihama-00.github.io/my-blog/tags/%E4%BE%A1%E5%80%A4%E8%A6%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>価値観に基づいた生き方とは？倫理学者Ira Bedzowの知恵に学ぶ</title>
-      <link>http://localhost:1313/my-blog/posts/9_post/</link>
+      <link>https://akihama-00.github.io/my-blog/posts/9_post/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/9_post/</guid>
+      <guid>https://akihama-00.github.io/my-blog/posts/9_post/</guid>
       <description>TED Talkで語られたIra Bedzow氏の対話から、自分の価値観を明確にし、目的を持って生きるための実践的な戦略と洞察を紹介。</description>
     </item>
   </channel>

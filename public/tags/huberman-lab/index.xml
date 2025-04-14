@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Huberman Lab on 🏠HOME🏠</title>
-    <link>http://localhost:1313/my-blog/tags/huberman-lab/</link>
+    <link>https://akihama-00.github.io/my-blog/tags/huberman-lab/</link>
     <description>Recent content in Huberman Lab on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 14 Apr 2025 13:17:11 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/tags/huberman-lab/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akihama-00.github.io/my-blog/tags/huberman-lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ADHDを科学で読み解く：薬物療法・行動療法・神経メカニズムの最新知見まとめ</title>
-      <link>http://localhost:1313/my-blog/posts/14_post/</link>
+      <link>https://akihama-00.github.io/my-blog/posts/14_post/</link>
       <pubDate>Mon, 14 Apr 2025 13:17:11 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/14_post/</guid>
+      <guid>https://akihama-00.github.io/my-blog/posts/14_post/</guid>
       <description>ADHDの神経科学的メカニズムから薬物・非薬物療法、サプリメント、生活習慣までをDr. John KruseとHubermanが徹底解説。実用的な改善アプローチを紹介します。</description>
     </item>
     <item>
       <title>スプリントに学ぶ自己表現とパフォーマンスの本質｜Huberman Lab × Stuart McMillan</title>
-      <link>http://localhost:1313/my-blog/posts/11_post/</link>
+      <link>https://akihama-00.github.io/my-blog/posts/11_post/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/11_post/</guid>
+      <guid>https://akihama-00.github.io/my-blog/posts/11_post/</guid>
       <description>スプリントコーチStuart McMillanとの対談をもとに、スポーツにおける自己表現・動作の本質・加齢への対応・トレーニング理論を解説。日常動作や筋トレにどう活かすかも解説。</description>
     </item>
     <item>
       <title>メンタル疾患とミトコンドリア：最新研究から見える治療と予防の未来</title>
-      <link>http://localhost:1313/my-blog/posts/5_post/</link>
+      <link>https://akihama-00.github.io/my-blog/posts/5_post/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/5_post/</guid>
+      <guid>https://akihama-00.github.io/my-blog/posts/5_post/</guid>
       <description>精神疾患の新しい理解と治療法として注目される「ミトコンドリア仮説」。Dr. Chris PalmerとAndrew Hubermanの対談から、低脂肪ダイエットの限界、断食やサプリメントの可能性、そして栄養政策の課題までを包括的に解説します。</description>
     </item>
   </channel>
