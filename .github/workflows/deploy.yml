@@ -1,3 +1,40 @@
+# name: Deploy Hugo site to GitHub Pages
+
+# on:
+#   push:
+#     branches:
+#       - master
+
+# jobs:
+#   build-deploy:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - name: Checkout source
+#         uses: actions/checkout@v3
+#         with:
+#           submodules: true  # Fetch Hugo themes
+#           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+#       - name: Setup Hugo
+#         uses: peaceiris/actions-hugo@v3
+#         with:
+#           hugo-version: '0.145.0'
+#           extended: true
+
+#       - name: Build
+#         run: hugo --minify --baseURL "https://akihama-00.github.io/my-blog"
+
+#       - name: Deploy
+#         uses: peaceiris/actions-gh-pages@v3
+#         with:
+#           github_token: ${{ secrets.GITHUB_TOKEN }}
+#           publish_dir: ./public
+#           user_name: github-actions[bot]
+#           user_email: github-actions[bot]@users.noreply.github.com
+
+# バージョン指定なし版は下記
+# 145でないと、ビルドエラーがする場合は、下記をコメントアウトする
 name: Deploy Hugo site to GitHub Pages
 
 on:
@@ -17,9 +54,9 @@ jobs:
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.145.0'
+          hugo-version: 'latest'
           extended: true
 
       - name: Build
