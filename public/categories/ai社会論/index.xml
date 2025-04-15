@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>TED on 🏠HOME🏠</title>
-    <link>http://localhost:1313/my-blog/tags/ted/</link>
-    <description>Recent content in TED on 🏠HOME🏠</description>
+    <title>AI社会論 on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/categories/ai%E7%A4%BE%E4%BC%9A%E8%AB%96/</link>
+    <description>Recent content in AI社会論 on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/tags/ted/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-blog/categories/ai%E7%A4%BE%E4%BC%9A%E8%AB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【AIと人類の未来】OpenAI CEO サム・アルトマンが語る、責任・安全・創造性の核心</title>
       <link>http://localhost:1313/my-blog/posts/15_post/</link>
       <pubDate>Tue, 15 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/posts/15_post/</guid>
       <description>OpenAI CEOサム・アルトマンがTEDで語ったAIの進化、倫理的責任、創造性の未来、そして我々がどのように共存すべきかについて、全文書き起こしをもとに徹底解説。SoraやAGI、Agentic AIの話題までカバー。</description>
-    </item>
-    <item>
-      <title>価値観に基づいた生き方とは？倫理学者Ira Bedzowの知恵に学ぶ</title>
-      <link>http://localhost:1313/my-blog/posts/9_post/</link>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/9_post/</guid>
-      <description>TED Talkで語られたIra Bedzow氏の対話から、自分の価値観を明確にし、目的を持って生きるための実践的な戦略と洞察を紹介。</description>
     </item>
   </channel>
 </rss>

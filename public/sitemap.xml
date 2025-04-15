@@ -2,8 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/my-blog/posts/15_post/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/my-blog/</loc>
-    <lastmod>2025-04-14T13:17:11+09:00</lastmod>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/agentic-ai/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/agi/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/ai%E7%A4%BE%E4%BC%9A%E8%AB%96/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/ai%E5%80%AB%E7%90%86/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/openai/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/posts/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/sora/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/ted/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E3%82%B5%E3%83%A0%E3%82%A2%E3%83%AB%E3%83%88%E3%83%9E%E3%83%B3/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/tags/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/my-blog/categories/%E6%9C%AA%E6%9D%A5/</loc>
+    <lastmod>2025-04-15T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/tags/adhd/</loc>
     <lastmod>2025-04-14T13:17:11+09:00</lastmod>
@@ -11,16 +56,7 @@
     <loc>http://localhost:1313/my-blog/posts/14_post/</loc>
     <lastmod>2025-04-14T13:17:11+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/categories/</loc>
-    <lastmod>2025-04-14T13:17:11+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/my-blog/tags/huberman-lab/</loc>
-    <lastmod>2025-04-14T13:17:11+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-blog/posts/</loc>
-    <lastmod>2025-04-14T13:17:11+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-blog/tags/</loc>
     <lastmod>2025-04-14T13:17:11+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/tags/%E3%82%B5%E3%83%BC%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%AA%E3%82%BA%E3%83%A0/</loc>
@@ -145,9 +181,6 @@
   </url><url>
     <loc>http://localhost:1313/my-blog/tags/%E6%81%8B%E6%84%9B/</loc>
     <lastmod>2025-04-09T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/my-blog/tags/ted/</loc>
-    <lastmod>2025-04-08T00:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/my-blog/tags/%E3%83%90%E3%83%BC%E3%83%B3%E3%82%A2%E3%82%A6%E3%83%88%E5%AF%BE%E7%AD%96/</loc>
     <lastmod>2025-04-08T00:00:00+09:00</lastmod>
