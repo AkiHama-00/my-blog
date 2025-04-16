@@ -6,8 +6,15 @@
     <description>Recent content in Posts on 🏠HOME🏠</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 15 Apr 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 22:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/my-blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【対談要約】Dr. Mark Hymanが語る、食と健康の未来：食品業界の闇と機能性医療の可能性</title>
+      <link>http://localhost:1313/my-blog/posts/16_post/</link>
+      <pubDate>Wed, 16 Apr 2025 22:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/16_post/</guid>
+      <description>Huberman Lab Podcastに登場したDr. Mark Hymanが、食品業界の裏側と機能性医療の重要性を語る。糖質過多、肥満、慢性疾患を引き起こす政策と業界の闇に迫る一方で、栄養・睡眠・運動・検査による個別最適化の可能性についても深掘りする。</description>
+    </item>
     <item>
       <title>【AIと人類の未来】OpenAI CEO サム・アルトマンが語る、責任・安全・創造性の核心</title>
       <link>http://localhost:1313/my-blog/posts/15_post/</link>
