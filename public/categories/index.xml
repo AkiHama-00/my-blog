@@ -30,6 +30,20 @@
       <description></description>
     </item>
     <item>
+      <title>ビジネス</title>
+      <link>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>経営ノウハウ</title>
+      <link>http://localhost:1313/my-blog/categories/%E7%B5%8C%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E7%B5%8C%E5%96%B6%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>キャリア戦略</title>
       <link>http://localhost:1313/my-blog/categories/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E6%88%A6%E7%95%A5/</link>
       <pubDate>Sun, 20 Apr 2025 22:00:00 +0900</pubDate>
@@ -48,13 +62,6 @@
       <link>http://localhost:1313/my-blog/categories/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</link>
       <pubDate>Sun, 20 Apr 2025 22:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ビジネス</title>
-      <link>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</link>
-      <pubDate>Sat, 19 Apr 2025 22:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
