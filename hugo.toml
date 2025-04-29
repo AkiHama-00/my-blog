@@ -20,10 +20,22 @@ googleAnalytics = "G-P9201X7CLY"
   weight = 2
 
 [[menu.main]]
+  identifier = "categories"
+  name = "📁カテゴリ"
+  url = "/categories/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "🔖 タグ"
+  url = "/tags/"
+  weight = 20
+
+  [[menu.main]]
   identifier = "search"
   name = "🔍検索"
   url = "/search/"
-  weight = 3
+  weight = 30
 
 [params]
   ShowBreadCrumbs = true # パンくずリスト（上部の階層表示）を表示
@@ -62,4 +74,9 @@ imageUrl = "images/cat-sunglasses.jpg"
 imageTitle = "プロフィール画像"
 imageWidth = 120
 imageHeight = 120
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 
