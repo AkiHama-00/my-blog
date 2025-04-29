@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>睡眠 on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/tags/%E7%9D%A1%E7%9C%A0/</link>
+    <description>Recent content in 睡眠 on 🏠HOME🏠</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 29 Apr 2025 10:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/tags/%E7%9D%A1%E7%9C%A0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【睡眠・筋肉・肌】光管理とプロテイン摂取の科学｜Huberman Lab解説</title>
+      <link>http://localhost:1313/my-blog/posts/28_post/</link>
+      <pubDate>Tue, 29 Apr 2025 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/28_post/</guid>
+      <description>Huberman Labによる、光管理と睡眠、プロテイン摂取（ホエイ、コラーゲン、ボーンブロス）の科学的解説。健康、筋肉増強、肌の改善に役立つ知識を網羅します。</description>
+    </item>
+  </channel>
+</rss>
