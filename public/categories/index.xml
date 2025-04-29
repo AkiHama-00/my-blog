@@ -6,8 +6,29 @@
     <description>Recent content in Categories on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 29 Apr 2025 10:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 11:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/my-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ビジネス</title>
+      <link>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</link>
+      <pubDate>Tue, 29 Apr 2025 11:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>交渉スキル</title>
+      <link>http://localhost:1313/my-blog/categories/%E4%BA%A4%E6%B8%89%E3%82%B9%E3%82%AD%E3%83%AB/</link>
+      <pubDate>Tue, 29 Apr 2025 11:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E4%BA%A4%E6%B8%89%E3%82%B9%E3%82%AD%E3%83%AB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>自己成長</title>
+      <link>http://localhost:1313/my-blog/categories/%E8%87%AA%E5%B7%B1%E6%88%90%E9%95%B7/</link>
+      <pubDate>Tue, 29 Apr 2025 11:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E8%87%AA%E5%B7%B1%E6%88%90%E9%95%B7/</guid>
+      <description></description>
+    </item>
     <item>
       <title>パフォーマンス向上</title>
       <link>http://localhost:1313/my-blog/categories/%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E5%90%91%E4%B8%8A/</link>
@@ -90,13 +111,6 @@
       <link>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E6%94%B9%E5%96%84/</link>
       <pubDate>Wed, 23 Apr 2025 22:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E6%94%B9%E5%96%84/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ビジネス</title>
-      <link>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</link>
-      <pubDate>Mon, 21 Apr 2025 01:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
