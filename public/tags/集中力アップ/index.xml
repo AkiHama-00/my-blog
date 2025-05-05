@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>集中力アップ on 🏠HOME🏠</title>
-    <link>http://localhost:1313/my-blog/tags/%E9%9B%86%E4%B8%AD%E5%8A%9B%E3%82%A2%E3%83%83%E3%83%97/</link>
+    <link>http://localhost:1313/tags/%E9%9B%86%E4%B8%AD%E5%8A%9B%E3%82%A2%E3%83%83%E3%83%97/</link>
     <description>Recent content in 集中力アップ on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 23 Apr 2025 22:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/tags/%E9%9B%86%E4%B8%AD%E5%8A%9B%E3%82%A2%E3%83%83%E3%83%97/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E9%9B%86%E4%B8%AD%E5%8A%9B%E3%82%A2%E3%83%83%E3%83%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【脳と体を鍛える】4種類の持久力トレーニングで毎日が変わる！科学が教える本当に効果的な方法</title>
-      <link>http://localhost:1313/my-blog/posts/22_post/</link>
+      <link>http://localhost:1313/posts/22_post/</link>
       <pubDate>Wed, 23 Apr 2025 22:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/22_post/</guid>
+      <guid>http://localhost:1313/posts/22_post/</guid>
       <description>筋肉・心肺・神経・脳を総動員して持久力を伸ばす方法とは？科学的に効果が証明された4つの持久力トレーニングと、日常生活や仕事にも活かせる実践ポイントをやさしく解説。</description>
     </item>
   </channel>

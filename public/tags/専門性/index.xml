@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>専門性 on 🏠HOME🏠</title>
-    <link>http://localhost:1313/my-blog/tags/%E5%B0%82%E9%96%80%E6%80%A7/</link>
+    <link>http://localhost:1313/tags/%E5%B0%82%E9%96%80%E6%80%A7/</link>
     <description>Recent content in 専門性 on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 03 May 2025 12:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/tags/%E5%B0%82%E9%96%80%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E5%B0%82%E9%96%80%E6%80%A7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>成功するビジネス構築の青写真：専門性・問題解決・セールスの極意</title>
-      <link>http://localhost:1313/my-blog/posts/32_post/</link>
+      <link>http://localhost:1313/posts/32_post/</link>
       <pubDate>Sat, 03 May 2025 12:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/32_post/</guid>
+      <guid>http://localhost:1313/posts/32_post/</guid>
       <description>Charlieが語る5つのステップで構築するビジネス成功の青写真。価値提供、専門性、セールス、アポイント獲得、オペレーションまでを徹底解説。</description>
     </item>
   </channel>

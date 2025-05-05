@@ -1,4 +1,4 @@
-baseURL = 'https://akihama-00.github.io/my-blog/'
+baseURL = 'https://akihama-00.github.io/'
 languageCode = 'ja-jp'
 title = '🏠HOME🏠'
 theme = 'PaperMod'

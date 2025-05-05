@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>仕事術 on 🏠HOME🏠</title>
-    <link>http://localhost:1313/my-blog/categories/%E4%BB%95%E4%BA%8B%E8%A1%93/</link>
+    <link>http://localhost:1313/categories/%E4%BB%95%E4%BA%8B%E8%A1%93/</link>
     <description>Recent content in 仕事術 on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/categories/%E4%BB%95%E4%BA%8B%E8%A1%93/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E4%BB%95%E4%BA%8B%E8%A1%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Workについて考える 〜集中力を取り戻し、生産性を最大化する方法〜</title>
-      <link>http://localhost:1313/my-blog/posts/4_post/</link>
+      <link>http://localhost:1313/posts/4_post/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/4_post/</guid>
+      <guid>http://localhost:1313/posts/4_post/</guid>
       <description>Deep Workとは何か？集中力を高め、仕事やブログ運営の質を高めるための実践的な方法、スキル、ヒントを紹介します。検索対策にも役立つSEO要素も掲載。</description>
     </item>
   </channel>

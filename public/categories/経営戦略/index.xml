@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>経営戦略 on 🏠HOME🏠</title>
-    <link>http://localhost:1313/my-blog/categories/%E7%B5%8C%E5%96%B6%E6%88%A6%E7%95%A5/</link>
+    <link>http://localhost:1313/categories/%E7%B5%8C%E5%96%B6%E6%88%A6%E7%95%A5/</link>
     <description>Recent content in 経営戦略 on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
     <lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/categories/%E7%B5%8C%E5%96%B6%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%E7%B5%8C%E5%96%B6%E6%88%A6%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【勝つための4つの戦略軸】スピード・信頼・価格・使いやすさで市場を制する方法</title>
-      <link>http://localhost:1313/my-blog/posts/20_post/</link>
+      <link>http://localhost:1313/posts/20_post/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/20_post/</guid>
+      <guid>http://localhost:1313/posts/20_post/</guid>
       <description>成功するビジネスに共通する4つの競争優位性（スピード、信頼性、価格、使いやすさ）を徹底解説。顧客に選ばれるための具体戦略と事例を通じて、事業成長のヒントを提供します。</description>
     </item>
   </channel>

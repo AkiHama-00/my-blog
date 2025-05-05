@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>アンチエイジング on 🏠HOME🏠</title>
-    <link>http://localhost:1313/my-blog/tags/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0/</link>
+    <link>http://localhost:1313/tags/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0/</link>
     <description>Recent content in アンチエイジング on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/tags/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>スプリントに学ぶ自己表現とパフォーマンスの本質｜Huberman Lab × Stuart McMillan</title>
-      <link>http://localhost:1313/my-blog/posts/11_post/</link>
+      <link>http://localhost:1313/posts/11_post/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/11_post/</guid>
+      <guid>http://localhost:1313/posts/11_post/</guid>
       <description>スプリントコーチStuart McMillanとの対談をもとに、スポーツにおける自己表現・動作の本質・加齢への対応・トレーニング理論を解説。日常動作や筋トレにどう活かすかも解説。</description>
     </item>
   </channel>
