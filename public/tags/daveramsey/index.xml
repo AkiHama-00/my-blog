@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DaveRamsey on 🏠HOME🏠</title>
-    <link>http://localhost:1313/tags/daveramsey/</link>
+    <link>http://localhost:1313/my-blog/tags/daveramsey/</link>
     <description>Recent content in DaveRamsey on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
     <lastBuildDate>Tue, 29 Apr 2025 03:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/daveramsey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-blog/tags/daveramsey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>デイブ・ラムジーが語る成功の秘訣｜ビジネス拡大・失敗・組織運営のリアル</title>
-      <link>http://localhost:1313/posts/30_post/</link>
+      <link>http://localhost:1313/my-blog/posts/30_post/</link>
       <pubDate>Tue, 29 Apr 2025 03:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/30_post/</guid>
+      <guid>http://localhost:1313/my-blog/posts/30_post/</guid>
       <description>デイブ・ラムジーが35年間で築き上げた事業運営の哲学と、失敗から学んだ教訓、成長ステージに応じたビジネスの進め方を徹底解説。</description>
     </item>
   </channel>

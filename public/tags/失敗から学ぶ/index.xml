@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>失敗から学ぶ on 🏠HOME🏠</title>
-    <link>http://localhost:1313/tags/%E5%A4%B1%E6%95%97%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6/</link>
+    <link>http://localhost:1313/my-blog/tags/%E5%A4%B1%E6%95%97%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6/</link>
     <description>Recent content in 失敗から学ぶ on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 04 May 2025 00:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%A4%B1%E6%95%97%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-blog/tags/%E5%A4%B1%E6%95%97%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>努力よりも結果が問われる時代に、自分を貫く方法｜成功の鍵は“Just Win”の思考法</title>
-      <link>http://localhost:1313/posts/33_post/</link>
+      <link>http://localhost:1313/my-blog/posts/33_post/</link>
       <pubDate>Sun, 04 May 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/33_post/</guid>
+      <guid>http://localhost:1313/my-blog/posts/33_post/</guid>
       <description>人は結果しか見ない。努力は報われず、プライドは進歩の敵となる。本記事では「Just Win（ただ勝て）」という思考フレームを通じて、成功の本質・助けを求める勇気・謙虚さの重要性を掘り下げます。</description>
     </item>
   </channel>

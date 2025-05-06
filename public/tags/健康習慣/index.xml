@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>健康習慣 on 🏠HOME🏠</title>
-    <link>http://localhost:1313/tags/%E5%81%A5%E5%BA%B7%E7%BF%92%E6%85%A3/</link>
+    <link>http://localhost:1313/my-blog/tags/%E5%81%A5%E5%BA%B7%E7%BF%92%E6%85%A3/</link>
     <description>Recent content in 健康習慣 on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
     <lastBuildDate>Wed, 23 Apr 2025 22:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%81%A5%E5%BA%B7%E7%BF%92%E6%85%A3/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-blog/tags/%E5%81%A5%E5%BA%B7%E7%BF%92%E6%85%A3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【脳と体を鍛える】4種類の持久力トレーニングで毎日が変わる！科学が教える本当に効果的な方法</title>
-      <link>http://localhost:1313/posts/22_post/</link>
+      <link>http://localhost:1313/my-blog/posts/22_post/</link>
       <pubDate>Wed, 23 Apr 2025 22:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/22_post/</guid>
+      <guid>http://localhost:1313/my-blog/posts/22_post/</guid>
       <description>筋肉・心肺・神経・脳を総動員して持久力を伸ばす方法とは？科学的に効果が証明された4つの持久力トレーニングと、日常生活や仕事にも活かせる実践ポイントをやさしく解説。</description>
     </item>
     <item>
       <title>エンジニアのための口腔マイクロバイオーム：歯から始める全身最適化</title>
-      <link>http://localhost:1313/posts/7_post/</link>
+      <link>http://localhost:1313/my-blog/posts/7_post/</link>
       <pubDate>Mon, 07 Apr 2025 03:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/posts/7_post/</guid>
+      <guid>http://localhost:1313/my-blog/posts/7_post/</guid>
       <description>Huberman Lab PodcastのDr. Staci Whitmanとの対談をもとに、エンジニアが知るべき最新の口腔マイクロバイオーム事情と実践的なケア方法を解説します。</description>
     </item>
   </channel>
