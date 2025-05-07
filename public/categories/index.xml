@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>ビジネス</title>
+      <link>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ビジネス戦略</title>
       <link>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E6%88%A6%E7%95%A5/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0900</pubDate>
@@ -27,6 +34,20 @@
       <link>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>自己啓発</title>
+      <link>http://localhost:1313/my-blog/categories/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>収益化戦略</title>
+      <link>http://localhost:1313/my-blog/categories/%E5%8F%8E%E7%9B%8A%E5%8C%96%E6%88%A6%E7%95%A5/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E5%8F%8E%E7%9B%8A%E5%8C%96%E6%88%A6%E7%95%A5/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +69,6 @@
       <link>http://localhost:1313/my-blog/categories/%E6%B3%95%E3%81%A8%E7%A4%BE%E4%BC%9A/</link>
       <pubDate>Tue, 06 May 2025 21:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E6%B3%95%E3%81%A8%E7%A4%BE%E4%BC%9A/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ビジネス</title>
-      <link>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</link>
-      <pubDate>Sun, 04 May 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
@@ -83,13 +97,6 @@
       <link>http://localhost:1313/my-blog/categories/%E6%80%9D%E8%80%83%E6%95%B4%E7%90%86/</link>
       <pubDate>Sat, 03 May 2025 11:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E6%80%9D%E8%80%83%E6%95%B4%E7%90%86/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>自己啓発</title>
-      <link>http://localhost:1313/my-blog/categories/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</link>
-      <pubDate>Sat, 03 May 2025 11:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E8%87%AA%E5%B7%B1%E5%95%93%E7%99%BA/</guid>
       <description></description>
     </item>
     <item>

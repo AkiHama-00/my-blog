@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI活用 on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/tags/ai%E6%B4%BB%E7%94%A8/</link>
+    <description>Recent content in AI活用 on 🏠HOME🏠</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/tags/ai%E6%B4%BB%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>$100から始めて100万ドルを稼ぐロードマップ</title>
+      <link>http://localhost:1313/my-blog/posts/36_post/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/36_post/</guid>
+      <description>$100からスタートして100万ドルを稼ぐ実体験に基づいたステップバイステップの戦略を公開。初心者がまず取るべき行動、身につけるべきスキル、乗り越えるべきマインドセットとは？</description>
+    </item>
+  </channel>
+</rss>
