@@ -1,6 +1,6 @@
 ---
 title: "$100から始めて100万ドルを稼ぐロードマップ"
-date: 2025-05-07
+date: 2025-05-07T07:05:00+09:00
 tags: ["起業", "副業", "スキル習得", "AI活用", "eコマース", "自己投資"]
 categories: ["ビジネス", "自己啓発", "収益化戦略"]
 description: "$100からスタートして100万ドルを稼ぐ実体験に基づいたステップバイステップの戦略を公開。初心者がまず取るべき行動、身につけるべきスキル、乗り越えるべきマインドセットとは？"
@@ -12,6 +12,9 @@ cover:
 relative: false
 hidden: false
 ---
+
+{{< youtube "ovfhATgG1i0" >}}
+[元動画：Millionaire Explains: How To Get Rich With $100](https://www.youtube.com/watch?v=ovfhATgG1i0)
 
 ## 💡 概要
 
@@ -91,4 +94,7 @@ hidden: false
 > 「$100をどう使うか」よりも、「どのスキルを身につけるか」を考えよ。
 
 ---
+
+## 関連リンク(外部)
+[元動画：Millionaire Explains: How To Get Rich With $100](https://www.youtube.com/watch?v=ovfhATgG1i0)
 
