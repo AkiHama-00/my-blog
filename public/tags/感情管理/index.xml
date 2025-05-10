@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>感情管理 on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/tags/%E6%84%9F%E6%83%85%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 感情管理 on 🏠HOME🏠</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/tags/%E6%84%9F%E6%83%85%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>気にしすぎをやめて人生を変える4つのステップ｜Mark Mansonの実践心理学</title>
+      <link>http://localhost:1313/my-blog/posts/41_post/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/41_post/</guid>
+      <description>作家Mark Mansonが語る『気にしすぎ』から脱却するための4つの実践ステップ。自分の人生に本当に必要なことに集中し、他人の目・恐怖・感情に振り回されずに生きる方法を、エモーショナルスキルや責任感の観点から深掘り。</description>
+    </item>
+  </channel>
+</rss>
