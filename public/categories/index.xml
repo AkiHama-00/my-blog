@@ -72,17 +72,31 @@
       <description></description>
     </item>
     <item>
-      <title>教育</title>
-      <link>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</link>
-      <pubDate>Fri, 09 May 2025 23:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</guid>
+      <title>フィットネス</title>
+      <link>http://localhost:1313/my-blog/categories/%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>科学</title>
+      <link>http://localhost:1313/my-blog/categories/%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E7%A7%91%E5%AD%A6/</guid>
       <description></description>
     </item>
     <item>
       <title>健康</title>
       <link>http://localhost:1313/my-blog/categories/%E5%81%A5%E5%BA%B7/</link>
-      <pubDate>Fri, 09 May 2025 23:00:00 +0900</pubDate>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E5%81%A5%E5%BA%B7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>教育</title>
+      <link>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</link>
+      <pubDate>Fri, 09 May 2025 23:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</guid>
       <description></description>
     </item>
     <item>
@@ -398,13 +412,6 @@
       <link>http://localhost:1313/my-blog/categories/%E5%8C%BB%E7%99%82/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E5%8C%BB%E7%99%82/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>科学</title>
-      <link>http://localhost:1313/my-blog/categories/%E7%A7%91%E5%AD%A6/</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E7%A7%91%E5%AD%A6/</guid>
       <description></description>
     </item>
     <item>
