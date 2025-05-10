@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Psychology on 🏠HOME🏠</title>
+    <link>http://localhost:1313/my-blog/categories/psychology/</link>
+    <description>Recent content in Psychology on 🏠HOME🏠</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-blog/categories/psychology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>トップ0.1%が実践する成功習慣：Joe Hudsonが教える深層の生産性</title>
+      <link>http://localhost:1313/my-blog/posts/40_post/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/posts/40_post/</guid>
+      <description>AppleやOpenAIのCEOたちが信頼を寄せる秘密のコーチ、Joe Hudson。その教えから学ぶ、思考・感情・行動の成功5習慣を徹底解説。</description>
+    </item>
+  </channel>
+</rss>
