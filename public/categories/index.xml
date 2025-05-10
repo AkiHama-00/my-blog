@@ -6,8 +6,29 @@
     <description>Recent content in Categories on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Fri, 09 May 2025 23:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/my-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business</title>
+      <link>http://localhost:1313/my-blog/categories/business/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychology</title>
+      <link>http://localhost:1313/my-blog/categories/psychology/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/psychology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Development</title>
+      <link>http://localhost:1313/my-blog/categories/self-development/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/self-development/</guid>
+      <description></description>
+    </item>
     <item>
       <title>教育</title>
       <link>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</link>
