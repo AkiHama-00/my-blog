@@ -6,8 +6,50 @@
     <description>Recent content in Categories on 🏠HOME🏠</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 10 May 2025 06:30:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/my-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>メンタルヘルス</title>
+      <link>http://localhost:1313/my-blog/categories/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>自己改善</title>
+      <link>http://localhost:1313/my-blog/categories/%E8%87%AA%E5%B7%B1%E6%94%B9%E5%96%84/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E8%87%AA%E5%B7%B1%E6%94%B9%E5%96%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>神経科学</title>
+      <link>http://localhost:1313/my-blog/categories/%E7%A5%9E%E7%B5%8C%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E7%A5%9E%E7%B5%8C%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>フィットネス</title>
+      <link>http://localhost:1313/my-blog/categories/%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9/</link>
+      <pubDate>Sat, 10 May 2025 06:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>科学</title>
+      <link>http://localhost:1313/my-blog/categories/%E7%A7%91%E5%AD%A6/</link>
+      <pubDate>Sat, 10 May 2025 06:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E7%A7%91%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>健康</title>
+      <link>http://localhost:1313/my-blog/categories/%E5%81%A5%E5%BA%B7/</link>
+      <pubDate>Sat, 10 May 2025 06:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/my-blog/categories/%E5%81%A5%E5%BA%B7/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Huberman Lab</title>
       <link>http://localhost:1313/my-blog/categories/huberman-lab/</link>
@@ -72,27 +114,6 @@
       <description></description>
     </item>
     <item>
-      <title>フィットネス</title>
-      <link>http://localhost:1313/my-blog/categories/%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>科学</title>
-      <link>http://localhost:1313/my-blog/categories/%E7%A7%91%E5%AD%A6/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E7%A7%91%E5%AD%A6/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>健康</title>
-      <link>http://localhost:1313/my-blog/categories/%E5%81%A5%E5%BA%B7/</link>
-      <pubDate>Sat, 10 May 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E5%81%A5%E5%BA%B7/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>教育</title>
       <link>http://localhost:1313/my-blog/categories/%E6%95%99%E8%82%B2/</link>
       <pubDate>Fri, 09 May 2025 23:00:00 +0900</pubDate>
@@ -125,13 +146,6 @@
       <link>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%8F%E3%83%83%E3%82%AF/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E3%83%A9%E3%82%A4%E3%83%95%E3%83%8F%E3%83%83%E3%82%AF/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>神経科学</title>
-      <link>http://localhost:1313/my-blog/categories/%E7%A5%9E%E7%B5%8C%E7%A7%91%E5%AD%A6/</link>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E7%A5%9E%E7%B5%8C%E7%A7%91%E5%AD%A6/</guid>
       <description></description>
     </item>
     <item>
@@ -265,13 +279,6 @@
       <link>http://localhost:1313/my-blog/categories/%E9%81%8B%E5%8B%95/</link>
       <pubDate>Mon, 28 Apr 2025 22:00:00 +0900</pubDate>
       <guid>http://localhost:1313/my-blog/categories/%E9%81%8B%E5%8B%95/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>メンタルヘルス</title>
-      <link>http://localhost:1313/my-blog/categories/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9/</link>
-      <pubDate>Sun, 27 Apr 2025 21:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/my-blog/categories/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9/</guid>
       <description></description>
     </item>
     <item>
